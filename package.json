@@ -1,9 +1,9 @@
 {
-  "name": "using-pre-built-react-components-completed",
+  "name": "google-keeper-clone",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "keywords": [],
-  "main": "src/index.js",
+  "main": "index.js",
   "dependencies": {
     "@material-ui/core": "4.6.1",
     "@material-ui/icons": "4.5.1",
